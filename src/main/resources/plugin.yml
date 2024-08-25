@@ -1,0 +1,7 @@
+name: AnotherAttempt
+version: '1.0-SNAPSHOT'
+main: com.projecki.anotherAttempt.Main
+api-version: '1.20'
+commands:
+  projeckiheal:
+    description: Heals you!
